@@ -156,7 +156,7 @@ const WordDefinition = ({ wordData }: WordDefinitionProps) => {
         {wordData.sourceUrls && wordData.sourceUrls.length > 0 && (
           <div className="mt-8 pt-4 border-t border-dictionary-lightgray text-sm text-dictionary-gray">
             <p className="flex items-center gap-1">
-              <span>Source:</span>
+              <span></span>
               <a 
                 href={wordData.sourceUrls[0]} 
                 target="_blank" 

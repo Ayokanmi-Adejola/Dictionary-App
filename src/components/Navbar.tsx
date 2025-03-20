@@ -62,7 +62,7 @@ const Navbar = () => {
           onClick={closeMenu}
         >
           <BookOpen size={24} />
-          <span className="text-xl tracking-tight">Ayokanmi Adejola Dictionary</span>
+          <span className="text-xl tracking-tight">Ayokanmi Adejola</span>
         </Link>
 
         {isMobile ? (
