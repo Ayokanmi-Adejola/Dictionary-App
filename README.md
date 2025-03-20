@@ -1,5 +1,7 @@
 Welcome to your Ayokanmi Adejola Dictionary App project
+
 Project info
+
 URL: https://ayokanmi-adejola-dictionary.netlify.app/
 
 Use your preferred IDE
