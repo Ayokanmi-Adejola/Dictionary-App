@@ -2,7 +2,7 @@
 
 A modern, feature-rich dictionary web application built with React, TypeScript, and Vite. This application provides an intuitive interface for looking up word definitions, managing favorites, and tracking search history.
 
-## 🔗 [Live Demo](https://ayokanmi-adejola-dictionary.netlify.app/)
+
 
 ## ✨ Features
 
@@ -114,9 +114,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
