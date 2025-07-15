@@ -35,7 +35,7 @@ A modern, feature-rich dictionary web application built with React, TypeScript, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ayokanmi/dictionary.git
+git clone https://github.com/Ayokanmi-Adejola/Dictionary-App
 ```
 
 2. Install dependencies:
